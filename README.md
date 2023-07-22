@@ -1,3 +1,1 @@
-# blink
-
-Getting started with arduino programming 🚀
+# Getting started with arduino programming 🚀
