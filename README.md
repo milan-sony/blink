@@ -2,4 +2,4 @@
 
 A simple arduino program to blink LED bulbs
 
-###### Getting started with #arduinoprogramming-p1 🚀
+###### Getting started with #arduinoprogramming 🚀
